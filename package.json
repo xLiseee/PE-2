@@ -1,0 +1,11 @@
+{
+  "name": "PE-1",
+  "version": "1.0.0",
+  "dependencies": {
+    "sass": "^1.69.1",
+    "vue": "^3.3.11"
+  },
+  "scripts": {
+    "scss": "sass --watch scss/styles.scss:css/style.css"
+  }
+}
